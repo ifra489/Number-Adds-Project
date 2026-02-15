@@ -1,9 +1,11 @@
 ## 🧮 Number Adder Project
 
 
-
-
 A simple, interactive calculator that performs basic operations, shows results in numbers and words, keeps history, supports decimals, random numbers, and theme toggle!
+
+## Live Preview
+
+https://numadds.netlify.app/
 
 ## ✨ Features
 
